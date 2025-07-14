@@ -1,0 +1,10 @@
+{
+  "booking": {
+    "id": 1,
+    "location": "San Francisco, USA",
+    "pickupDate": "2025-07-18",
+    "pickupTime": "01:02",
+    "returnDate": "2025-07-24",
+    "returnTime": "18:00"
+  }
+}
