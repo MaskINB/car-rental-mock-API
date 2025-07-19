@@ -28,7 +28,7 @@
       "id": 4,
       "title": "Flexible Payment Options",
       "description": "Choose from multiple payment methods including credit cards, digital wallets, and financing options to suit your needs.",
-      "badge": null,
+      "badge": "payment",
       "isActive": true,
       "order": 4
     }
